@@ -1,3 +1,2 @@
 Full Stack Developer with an emphasis on web development
-
-![Image](https://robauis.me/gifs/explod.gif)
+I put projects on [My Website](https://robauis.me), not all of them are on my GitHub account.
